@@ -1,0 +1,7 @@
+dataset,model_type,model_name,test_accuracy,test_f1_macro
+red_wine,baseline,log_reg,0.89375,0.7128075176855664
+red_wine,baseline,rf,0.94375,0.8591549295774648
+red_wine,fs,log_reg_kbest,0.89375,0.7128075176855664
+wine_dataset,baseline,log_reg,0.9722222222222222,0.9709618874773142
+wine_dataset,baseline,rf,1.0,1.0
+wine_dataset,fs,log_reg_kbest,0.9722222222222222,0.9709618874773142
